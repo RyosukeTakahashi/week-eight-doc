@@ -52,7 +52,3 @@ https://www.kataruta.com/collections/playing-story-cards/products/14_standard
 1. 程よくお題が与えられつつ、程よい自由度でコミュニケーションができて、しゃべるのが苦手な人も周りと打ち解けやすくなる
 1. アイスブレイクができて、参加者も田中さんもハッピー
 
-## Wireframe of key flows 
-
-* 手書きでもOK!
-* Or you can use a tool like [Figma](https://www.figma.com/), [Sketch](https://www.sketch.com/), etc
